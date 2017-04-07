@@ -1,0 +1,15 @@
+{
+  "name": "decor",
+  "description": "A starter project for AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/shashijais789/decor",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.6.3",
+    "angular-route": "~1.6.3",
+    "angular-loader": "~1.6.3",
+    "angular-mocks": "~1.6.3",
+    "html5-boilerplate": "^5.3.0"
+  }
+}
